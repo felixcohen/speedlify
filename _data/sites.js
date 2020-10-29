@@ -28,7 +28,7 @@ module.exports = {
 			"https://www.one.org/africa/", 
 			"https://www.one.org/africa/fr/", 
 			"https://www.one.org/canada/", 
-			"https://www.one.org/canada-fr/", 
+			"https://www.one.org/canada/fr/", 
 			"https://www.one.org/fr/", 
 			"https://www.one.org/de/", 
 			"https://www.one.org/nl/", 
