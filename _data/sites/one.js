@@ -5,16 +5,17 @@ module.exports = {
 		frequency: 60 * 23, // (in minutes), 23 hours
 	},
 	urls: [
-		"https://one.org/international/", 
-		"https://one.org/us/",
-		"https://one.org/africa/", 
-		"https://one.org/africa/fr/", 
-		"https://one.org/canada/", 
-		"https://one.org/canada-fr/", 
-		"https://one.org/fr/", 
-		"https://one.org/de/", 
-		"https://one.org/nl/", 
+		"https://www.one.org/international/", 
+		"https://www.one.org/us/",
+		"https://www.one.org/africa/", 
+		"https://www.one.org/africa/fr/", 
+		"https://www.one.org/canada/", 
+		"https://www.one.org/canada-fr/", 
+		"https://www.one.org/fr/", 
+		"https://www.one.org/de/", 
+		"https://www.one.org/nl/", 
 		"https://m.one.org/africa/",
-		"https://act.one.org/sign/debt-relief-2020-can-fr"
+		"https://act.one.org/sign/debt-relief-2020-can-fr",
+		"https://mobileoptimisation.staging.one.org/international/"
 	]
 };
