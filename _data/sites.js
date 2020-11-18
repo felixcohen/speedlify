@@ -34,5 +34,15 @@ module.exports = {
 			"https://www.one.org/nl/", 
 			"https://m.one.org/africa/"
 		]
+	},
+	mobileoptimisation: {
+		description: "Speed test sites",
+		options: {
+			freshChrome: "site"
+		},
+		urls: [
+			"https://staging.one.org/international/", 
+			"https://mobileoptimisation.staging.one.org/international/"
+		]
 	}
 };
