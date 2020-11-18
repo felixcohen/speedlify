@@ -14,8 +14,8 @@ module.exports = {
 		"https://www.one.org/fr/", 
 		"https://www.one.org/de/", 
 		"https://www.one.org/nl/", 
+		"https://mobileoptimisation.staging.one.org/international/",
 		"https://m.one.org/africa/",
-		"https://act.one.org/sign/debt-relief-2020-can-fr",
-		"https://mobileoptimisation.staging.one.org/international/"
+		"https://act.one.org/sign/debt-relief-2020-can-fr"
 	]
 };
